@@ -48,16 +48,6 @@ Built for **enthusiasts, technicians, and power users**, with safety prompts and
 
 ---
 
-## 📦 Mandatory Release Files
-
-```
-AORUS_ROOT_TOOL.exe
-version.txt
-boot_library.zip
-```
-
----
-
 ## ⚠️ Disclaimer
 Use at your own risk. Bootloader unlocking wipes data and may affect warranty.
 
